@@ -1,0 +1,5 @@
+{
+    "workerport":14649,
+    "pooladdress":"miningpool.example",
+    "poolport":3333
+}
